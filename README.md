@@ -1,5 +1,5 @@
 # Sorting-algorithms
-Title: Sorting Algorithms: Bubble, Insertion, and Selection Sort
+Sorting Algorithms: Bubble, Insertion, and Selection Sort
 ## Sorting Algorithms
 ### 1. Bubble Sort
 Bubble Sort is a simple comparison-based sorting algorithm. It repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. The process is repeated until the list is fully sorted.
